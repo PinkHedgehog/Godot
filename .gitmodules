@@ -1,0 +1,4 @@
+[submodule "Project1/godot-headers"]
+	path = Project1/godot-headers
+	url = https://github.com/godotengine/godot-headers.git
+	branch = 3.1
